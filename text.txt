@@ -1,0 +1,50 @@
+    1  ls -a
+    2  ls
+    3  ls -al
+    4  ls -al
+    5  ls -l 
+    6  ls -al
+    7  pwd
+    8  explorer.exe .
+    9  pwd
+   10  ls
+   11  ls -al
+   12  touch index.html
+   13  ls
+   14  touch deneme.txt
+   15  ls -al
+   16  git status
+   17  git add deneme.txt
+   18  git status
+   19  touch style.css
+   20  git status
+   21  git add .
+   22  git status
+   23  git commit -m "First commit"
+   24  git config --list
+   25  history
+   26  touch text.txt
+   27  ls
+   28  git status
+   29  git add
+   30  git add .
+   31  git commit
+   32  git commit -m "Second commit"
+   33  git status
+   34  ls -al
+   35  git status
+   36  git log
+   37  rm text.txt
+   38  ls
+   39  git status
+   40  git add text.txt
+   41  git status
+   42  git log
+   43  git checkout 9c45a3199d4ee628612c4db8b28fd3e1a8c8609b -- .
+   44  ls
+   45  git status
+   46  git remote add origin https://github.com/mrt-cn/daily.git
+   47  git remote
+   48  git push -u origin master
+   49  git history
+   50  history > text.txt
